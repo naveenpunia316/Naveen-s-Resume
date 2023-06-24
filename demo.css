@@ -1,0 +1,13 @@
+#container {
+    height: 75vh;
+    width: 50vw;
+    background: radial-gradient(yellow, yellowgreen);
+}
+
+#container div {
+    height: 200px;
+    width: 200px;
+    position: sticky;
+    top: 25px;
+    background-color: green;
+}
